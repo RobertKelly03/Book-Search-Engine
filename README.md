@@ -8,6 +8,9 @@ In the project directory, you can run:
 yarn start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
+<img width="867" alt="Screen Shot 2022-05-26 at 7 02 13 PM" src="https://user-images.githubusercontent.com/55413812/170613779-4dbb32b7-282b-4cd2-a853-c5604a1b5934.png">
+
+
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
